@@ -1,6 +1,5 @@
 /* Print the following pattern
     n=9 
-
   *   *  
  * * * * 
 *   *   *
